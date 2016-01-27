@@ -1,0 +1,5 @@
+*.pcap
+*.pyc
+~*
+*.swp
+*.ropeproject
